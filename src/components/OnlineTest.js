@@ -1,5 +1,4 @@
 import React, { useState, useMemo, useEffect, useCallback } from "react";
-import AppHeader from "./AppHeader";
 import TestHeader from "./TestHeader";
 import QuestionNavigator from "./QuestionNavigator";
 import QuestionPanel from "./QuestionPanel";
